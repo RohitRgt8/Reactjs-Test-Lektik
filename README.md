@@ -2,6 +2,9 @@
 
 Please organize, design, test, document and make your code deployment ready as if it was going into production.
 
+# Task Timeline
+# 8 hours from start
+
 # Functional requirement
 
 Consume the [Star Wars API](https://swapi.dev/) and render it's data. The NAV bar must contain links for pages showing Planets, Spaceships, People, and Vehicles. Each of the pages must load data in a paginated fashion. Bonus points for infinite scrolling. We prefer to see cards, lozenges rather than plain old lists/ grids in atleast one of the pages. There must be details page for each item in the main list. For example, when a starship <Link> is clicked a <StarshipPage> component should be rendered that displays the starship's name, model and a "Return to Starship List" <Link> that routes back.
