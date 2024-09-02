@@ -3,7 +3,7 @@
 Please organize, design, test, document and make your code deployment ready as if it was going into production.
 
 # Task Timeline
-# 8 hours from start
+ 8 hours from start
 
 # Functional requirement
 
