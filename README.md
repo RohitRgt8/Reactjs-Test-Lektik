@@ -16,8 +16,6 @@ Consume the [Star Wars API](https://swapi.dev/) and render it's data. The NAV ba
 
 # Technical requirement
 
-We believe there is no one-size-fits-all technology. Good engineering is about using the right tool for the right job, and constantly learning about them. Therefore, feel free to mention in your README how much experience you have with the technical stack you choose, we will take note of that when reviewing your challenge.
-
 Here are some technologies we love:
 
     React
@@ -25,7 +23,7 @@ Here are some technologies we love:
     Vue
     Angular
 
-You are also free to use any framework.
+You are also free to use any framework. Recommended to use React Framework.
 
 When you’re done, host it in your local machine. The endpoints must be accessable from within the network. The deployable must be a turnkey solution, which can be deployed on a new server with minimal effort.
 
